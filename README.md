@@ -44,5 +44,3 @@ The engine explores these questions by combining:
 
 ---
 
-## 🏗 Project Structure
-
